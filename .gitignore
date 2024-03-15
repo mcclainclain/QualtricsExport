@@ -1,0 +1,9 @@
+# File types
+*.spec
+*.iss
+
+# Folders
+__pycache__/
+dist/
+build/
+Output/
